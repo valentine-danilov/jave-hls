@@ -1,0 +1,26 @@
+[
+  {
+    "width": 426,
+    "height": 240,
+    "videoBitrate": 400000,
+    "audioBitrate": 64000
+  },
+  {
+    "width": 640,
+    "height": 360,
+    "videoBitrate": 800000,
+    "audioBitrate": 96000
+  },
+  {
+    "width": 842,
+    "height": 480,
+    "videoBitrate": 1400000,
+    "audioBitrate": 128000
+  },
+  {
+    "width": 1280,
+    "height": 720,
+    "videoBitrate": 2800000,
+    "audioBitrate": 128000
+  }
+]
